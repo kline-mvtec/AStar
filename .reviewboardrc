@@ -1,0 +1,3 @@
+REVIEWBOARD_URL = "http://kline.mvtec:8081"
+REPOSITORY = "AStar"
+BRANCH = "master"
