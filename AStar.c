@@ -36,7 +36,7 @@ struct __ASNeighborList {
     const ASPathNodeSource *source;
     size_t capacity;
     size_t count;
-    float *costs;
+    double *costs;
     void *nodeKeys;
 };
 
